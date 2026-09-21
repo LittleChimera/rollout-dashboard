@@ -146,7 +146,6 @@
 	import { BAKE_WORD } from '$lib/bake-status';
 	import Card from '$lib/components/Card.svelte';
 	import Chip from '$lib/components/Chip.svelte';
-	import { shortenVersion } from '$lib/utils';
 	import NextStep from '$lib/components/NextStep.svelte';
 	import StageChain from '$lib/components/StageChain.svelte';
 	import UpToDate from '$lib/components/UpToDate.svelte';
